@@ -1,4 +1,4 @@
-module https://github.com/HelloIlovegimkit4/E
+module github.com/HelloIlovegimkit4/E
 go 1.21
 
 require (
